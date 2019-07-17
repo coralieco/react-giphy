@@ -1,4 +1,4 @@
-# react-boilerplate
+# react-boilerplate from le Wagon
 
 Simple react starter with the following config:
 
